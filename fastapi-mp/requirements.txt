@@ -1,0 +1,9 @@
+fastapi
+opencv-python-headless
+boto3
+pymongo
+ultralytics
+requests
+uvicorn
+python-multipart
+email-validator
